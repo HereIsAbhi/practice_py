@@ -1,5 +1,5 @@
 # instance variable - shared bw diff object
-# static variable- we cant change static variable with objects we need to access class
+# static variable(wheel)- we cant change static variable with objects we need to access class
 
 
 class car:
